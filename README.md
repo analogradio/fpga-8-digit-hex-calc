@@ -1,1 +1,1 @@
-# fpga-8-digit-calc
+# fpga-8-digit-hexcalc
